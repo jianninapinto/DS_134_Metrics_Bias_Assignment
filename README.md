@@ -1,4 +1,4 @@
-# Data Science - Unit 1 Sprint 3 Module 4 | BloonTech
+# Data Science - Unit 1 Sprint 3 Module 4 | BloomTech
 ## Module Project: Metrics, Bias and Variance
 ### Learning Objectives
 - Interpret your model results using OLS and Sklearn metrics
